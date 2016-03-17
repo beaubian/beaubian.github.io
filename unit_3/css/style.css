@@ -1,0 +1,13 @@
+#slogan {font-style: italic;
+	color: #FFF7F8;
+}
+body { 
+  text-align: center;
+  background: thumb_IMG_5803_1024.jpg;
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+}
+hr {
+  width:200px;
+}

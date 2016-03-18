@@ -1,11 +1,11 @@
 #slogan {font-style: italic;
-	color: #FFF7F8;
+	color: #000;
 }
 body { 
   text-align: center;
   background: "havana.jpg";
   background-size: cover;
-  color: #fff;
+  color: #000;
   font-family: Helvetica, sans-serif;
 }
 hr {

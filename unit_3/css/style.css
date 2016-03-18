@@ -23,6 +23,11 @@ ul {
   width: 400px;
   text-align: left;
   margin: auto;
+
+li {
+  display: list-item;
+  text-align: match-parent
+}
 }
 hr {
   width:200px;

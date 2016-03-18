@@ -4,9 +4,18 @@
 body { 
   text-align: center;
   background: url("https://beaubian.github.io/unit_3/images/havana.jpg");
-  background-size: cover;
-  color: #fff;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: cover;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    background-size: cover;
   font-family: Helvetica, sans-serif;
+  color: #000;
   display: block;
   margin: 8px;
 }

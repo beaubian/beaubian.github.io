@@ -7,6 +7,13 @@ body {
   background-size: cover;
   color: #fff;
   font-family: Helvetica, sans-serif;
+  display: block;
+  margin: 8px;
+}
+ul {
+  width: 400px;
+  text-align: left;
+  margin: auto;
 }
 hr {
   width:200px;
@@ -17,5 +24,5 @@ p {
 .center{
     width:200px;
     margin:0 auto;
-    text-align:left;
+    text-align:center;
 }

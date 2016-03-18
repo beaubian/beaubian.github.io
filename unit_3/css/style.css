@@ -8,6 +8,12 @@ body {
   color: #fff;
   font-family: Helvetica, sans-serif;
   display: block;
+	height:188.922px;
+	margin-bottom:8px;
+	margin-left:8px;
+	margin-right:8px;
+	margin-top:8px;
+	width:852px;
 }
 hr {
   width:200px;

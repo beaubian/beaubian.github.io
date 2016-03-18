@@ -22,11 +22,11 @@ body {
 ul {
   width: 400px;
   text-align: left;
-  margin: 8px;
+  margin: 400px;
 
 li {
   display: list-item;
-  text-align: match-parent;
+  text-align: match-parent
 }
 }
 hr {

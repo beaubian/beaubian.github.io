@@ -3,14 +3,14 @@
 }
 body { 
   text-align: center;
-  background: url("https://beaubian.github.io/unit_3/images/havana.jpg");
+  background: url("https://beaubian.github.io/unit_3/images/havana.jpg"); &nbsp;
     background-position-x: initial;
     background-position-y: initial;
     background-size: cover;
     background-repeat-x: initial;
     background-repeat-y: initial;
     background-attachment: initial;
-    background-origin: initial;
+    background-origin: content-box;
     background-clip: initial;
     background-color: initial;
     background-size: cover;
